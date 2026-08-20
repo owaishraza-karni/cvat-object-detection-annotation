@@ -10,7 +10,7 @@ The dataset contains product-related images that were manually annotated using b
 
 The objective of this project was to create accurate object detection annotations by identifying and labeling objects in images according to predefined classes.
 
-## Tool Used
+## Tools Used
 
 * CVAT (Computer Vision Annotation Tool)
 * COCO 1.0 Annotation Format
@@ -60,10 +60,6 @@ The annotation process focused on:
 ### CVAT Annotation Example 2
 
 ![CVAT Annotation 2](screenshots/cvat_annotation_2.png)
-
-### CVAT Annotation Example 3
-
-![CVAT Annotation 3](screenshots/cvat_annotation_3.png)
 
 ## Skills Demonstrated
 
