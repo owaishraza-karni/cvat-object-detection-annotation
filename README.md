@@ -55,11 +55,11 @@ The annotation process focused on:
 
 ### CVAT Annotation Example 1
 
-![CVAT Annotation 1](screenshots/cvat_annotation_1.png)
+![CVAT Annotation 1](cvat_annotation_1.png)
 
 ### CVAT Annotation Example 2
 
-![CVAT Annotation 2](screenshots/cvat_annotation_2.png)
+![CVAT Annotation 2](cvat_annotation_2.png)
 
 ## Skills Demonstrated
 
